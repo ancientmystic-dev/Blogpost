@@ -1,7 +1,7 @@
 export default {
   //github: 'https://github.com/shuding/nextra',
   //docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' Case study',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Heading</span>
@@ -63,5 +63,5 @@ export default {
   footer: false,
  
  
-  unstable_faviconGlyph: '👋',
+  unstable_faviconGlyph: '👾',
 }
